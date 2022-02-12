@@ -1,0 +1,135 @@
+body {
+    background-color: #33cccc;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Berlin Sans FB;
+    font-size: 29px;
+    margin-bottom: 40px;
+}
+
+.form {
+    width: 310px;
+    margin: 0 auto;
+}
+
+.name {
+    width: 310px;
+    height: 40px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 3px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.email {
+    width: 310px;
+    height: 40px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 3px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.company {
+    width: 151px;
+    height: 40px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 3px;
+    background-color: white;
+    margin-bottom: 10px;
+    margin-right: 2px;
+
+}
+
+.phone {
+    width: 151px;
+    height: 40px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 3px;
+    background-color: white;
+    margin-bottom: 10px;
+    margin-left: 2px;
+}
+
+.message {
+    width: 310px;
+    height: 70px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 4px;
+    resize: none;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+button {
+    background-color: #ffe800;
+    border: none;
+    border-radius: 4px;
+    color: black;
+    padding: 15px 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    float: right;
+}
+
+input::placeholder {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+.float-container {
+    background-color: #33cccc;
+    height: 800px;
+    width: 1200px;
+}
+
+.float-child {
+    background-color: #33cccc;
+    height: 500px;
+    width: 50%;
+    float: left;
+}
+
+h2 {
+    color: white;
+    font-family: Candara Light;
+    margin-bottom: 0%;
+    margin-top: 10%;
+}
+
+.span1 {
+    color: white;
+    font-family: Candara Light;
+    margin-bottom: 1%;
+}
+
+.span2 {
+    color: yellow;
+    font-family: Candara Light;
+}
+
+.ul {
+    color: white;
+    font-family: Candara Light;
+    padding-inline-start: 16px;
+}
